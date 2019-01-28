@@ -1,0 +1,38 @@
+div.containerLogin {
+   display: inline-block;
+   text-align: center;
+   
+    margin: 0;
+	background: white;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+
+
+
+	padding-top:2%;
+	padding-left:2%;
+	padding-right:2%;
+	padding-bottom:2%;
+
+
+
+	border-radius: 5%;
+	border: 30%;
+}
+
+
+	
+
+html {
+	
+	background-color: #F3ECEC;
+}
+
+p {
+font-family: 'Lora', serif;
+}
+
+h1 {
+font-family: 'Lato', sans-serif;
+
